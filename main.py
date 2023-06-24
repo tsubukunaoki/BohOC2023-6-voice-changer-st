@@ -17,5 +17,6 @@ data3 = "audios/tsubuku_voice2.mp3"
 st.audio(data3)
 
 st.header("竈門炭治郎の変換voice2")
-data3 = "audios/tsubuku_voice1.mp3"
+data3 = "audios
+/tubuku_voice_tanjirou1.mp3"
 st.audio(data3)
