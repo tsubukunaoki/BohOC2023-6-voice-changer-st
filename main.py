@@ -8,7 +8,7 @@ data1 = "audios/TsubukuVoice.mp3"
 st.audio(data1)
 
 # 2つ目のオーディオファイル
-st.header("彼方このえの変換voice")
+st.header("竈門禰󠄀豆子の変換voice")
 data2 = "audios/tsubuku_voice_raburaibu.mp3"
 st.audio(data2)
 
